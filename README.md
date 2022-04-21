@@ -24,6 +24,10 @@ This team project is part of the first year curriculum of ALX School.
 - where format string can contain conversion specifiers and flags, along with regular characters
 
 ## Scope of this Function
+This is what it can do 
+- It can write ```strings, characters, numbers, addresses```
+- It can do Datatype conversion controlled by the converter file
+
 This function developed in the project doesn't consider these cases 
 - field width
 - precision or  (type precision from a mathematical standpoint)
